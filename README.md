@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hau</h1>
-<h3 align="center">I'm a Mobile Developer Frontend Developer from Vietnamese</h3>
+<h3 align="center">I'm a Mobile Frontend Developer from Vietnamese</h3>
 
 - 🔭 I’m currently working on [Walie App](https://github.com/HauDevOps/walie_app)
 
