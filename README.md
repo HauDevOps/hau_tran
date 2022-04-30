@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hau</h1>
 <h3 align="center">I'm a Mobile Developer Frontend Developer from Vietnamese</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haudevops&label=Profile%20views&color=0e75b6&style=flat" alt="haudevops" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haudevops" alt="haudevops" /></a> </p>
-
 - 🔭 I’m currently working on [Walie App](https://github.com/HauDevOps/walie_app)
 
 - 🌱 I’m currently learning **Flutter, Dart**
